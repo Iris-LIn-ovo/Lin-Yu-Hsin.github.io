@@ -1,6 +1,5 @@
 # 忽略整個 images 資料夾
 images/
 
-# 忽略所有 JPG PNG 圖片
-*.jpg
+# 忽略所有 PNG 圖片
 *.png
